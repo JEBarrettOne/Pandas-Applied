@@ -1,0 +1,13 @@
+# Pandas-Applied
+Pandas Applied
+
+Observed trends: 
+
+1) The age distribution of players according to the defined brackets appears to have a normal distribution around the 20-24 bracket, 
+   nearly 85% of players are contained within 15-19, 20-24, & 25-29. 
+2) The per player purchase value and average price of items purchased by members of all gender categories are nearly identical, even as
+   the gross of the male gender players clearly outstrips the gross of either the female or unreported players. This can be readily explained
+   as the proportion of male:female:unreported players mirrors the proportion of their gross expenses.
+3) It was not clear, at least on first pass, that items in the game are not sold at a set price dictated by the game. Observed differences in
+   the sale price of the same item across multiple transactions indicates that either a player mediated or central influence on the price of items 
+   can be expected over time. 
